@@ -38,4 +38,3 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 This was definitely the most challenging assignment. I had a hard time getting the custom transitions to display properly and still haven't quite figured it out.
-* Any libraries or borrowed content.
