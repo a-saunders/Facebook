@@ -2,7 +2,7 @@
 
 The purpose of this homework is to leverage animations and gestures to transition between screens. We're going to use the techniques from this week to implement some interactions in Facebook.
 
-Time spent: `6`
+Time spent: `8`
 
 ### Features
 
@@ -30,8 +30,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ### Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+s
+![facebook gif](facebook_demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
